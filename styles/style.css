@@ -29,26 +29,27 @@ body {
   flex-direction: row;
   flex-wrap: nowrap;
   column-gap: 33px;
-  list-style: circle; 
+}
+
+.header__links-list-item {
+  list-style: circle;
+}
+
+.header__links-list-item_no-bullit {
+  list-style-type: none;
 }
 
 .header__link {
-  
+  text-decoration: none;
 }
 
 .header__link_active {
-  list-style-type: none;
   border-bottom: 1px solid #000;
 }
 
 
 
 
-
-.header__links-list-item_no-bullit {
-  list-style-type: none;
-  text-decoration: none;
-}
 
 .header__logo {
   display: block;
