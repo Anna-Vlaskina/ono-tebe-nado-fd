@@ -64,7 +64,7 @@ body {
   font-size: 18px;
   font-style: normal;
   letter-spacing: normal;
-  line-height: 24px;
+  line-height: 25px;
   justify-self: end;
   overflow-wrap: break-word;
   text-decoration: none;
@@ -81,6 +81,7 @@ body {
   background-image: url(../images/cover.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
   position: relative;
   color: white;
   z-index: 0;
@@ -196,18 +197,21 @@ body {
   background-image: url(../images/card-lot-01.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .card_type_book {
   background-image: url(../images/card-lot-02.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .card_type_picture {
   background-image: url(../images/card-lot-03.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .card__title {
