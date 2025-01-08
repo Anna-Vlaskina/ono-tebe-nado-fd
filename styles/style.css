@@ -74,7 +74,7 @@
 
 .cover {
   margin: 0 0 180px;
-  padding: 158px 50px 50px 50px; 
+  padding: 158px 50px 50px 50px;
   background-image: url(../images/cover.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -94,7 +94,7 @@
 }
 
 .aligned-text {
-  display: block; 
+  display: block;
 }
 
 .aligned-text_center {
@@ -272,7 +272,7 @@
 .footer__address {
   max-width: 264px;
   line-height: 24px;
-  justify-self: start;  
+  justify-self: start;
 }
 
 .footer__menu {
